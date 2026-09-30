@@ -1,0 +1,10 @@
+body{
+    background:red;
+    color:yellow;
+}
+img{
+    height:250px;
+    width:300px;
+    margin:25px;
+    border:5px;
+}
